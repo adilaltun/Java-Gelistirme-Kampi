@@ -1,10 +1,10 @@
 import business.CategoryManager;
 import business.CourseManager;
 import business.InstructorManager;
-import business.core.loging.DatabaseLogger;
-import business.core.loging.EmailLogger;
-import business.core.loging.FileLogger;
-import business.core.loging.Logger;
+import core.loging.DatabaseLogger;
+import core.loging.EmailLogger;
+import core.loging.FileLogger;
+import core.loging.Logger;
 import dataAccess.HibernateDao;
 import dataAccess.JdbcDao;
 import entities.Category;

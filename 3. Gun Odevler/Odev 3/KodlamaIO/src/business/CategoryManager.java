@@ -1,6 +1,6 @@
 package business;
 
-import business.core.loging.Logger;
+import core.loging.Logger;
 import dataAccess.CategoryDao;
 import entities.Category;
 
